@@ -3,7 +3,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System.Timers;
 
-namespace EFMemoryLeakTest
+namespace MemoryLeakTest
 {
     public sealed class TestHostedService : IHostedService
     {

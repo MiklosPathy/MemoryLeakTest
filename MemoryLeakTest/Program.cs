@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Internal;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace EFMemoryLeakTest
+namespace MemoryLeakTest
 {
     internal class Program
     {

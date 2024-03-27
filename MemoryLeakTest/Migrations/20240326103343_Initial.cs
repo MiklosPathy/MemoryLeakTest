@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace EFMemoryLeakTest.Migrations
+namespace MemoryLeakTest.Migrations
 {
     /// <inheritdoc />
     public partial class Initial : Migration
